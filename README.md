@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ayush Shah
 **Tech Student | Nepal**
 
-Email Me 👉 ✉️ **ayushshah8082.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ayushshah8082@.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** School Digital App
 - 🌱 **I’m currently learning:** AI
