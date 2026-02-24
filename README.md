@@ -3,14 +3,6 @@
 
 Email Me 👉 ✉️ **ayushshah8082@.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** School Digital App
-- 🌱 **I’m currently learning:** AI
-- 🤔 **I’m looking for help with:** School Digital App 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** ayushshah8082@gmail.com
-- 😄 **Pronouns:** Ayush
-- ⚡ **Fun fact:** I love AI and AI Love Me
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100068948389553) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushshah.xo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushshah8082@gmail.com) 
 
