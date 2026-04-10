@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ayush Shah
+# 💫 Hi 👋, I'm Ayush
 **Tech Student | Nepal**
 
 Email Me 👉 ✉️ **ayushshah8082@.com** For Collaboration/Project or Anything Else. 😊😊
