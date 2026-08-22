@@ -10,10 +10,11 @@ Driven by curiosity and a mindset focused on:
 - **Building future-oriented technology**
 
 > **Doing what feels impossible.**
-<div align="center">
+
+<div align="left">
   <img
     src="sukuna_robot_readme_assets/assets/sukuna-robot/sukuna-robot.gif"
     alt="Animated Sukuna Robot mascot blinking and talking"
-    width="250"
+    width="200"
   />
 </div>
