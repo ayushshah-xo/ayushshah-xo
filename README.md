@@ -13,7 +13,7 @@ Driven by curiosity and a mindset focused on:
 
 <div align="left">
   <img
-    src="sukuna_robot_readme_assets/assets/sukuna-robot/sukuna-robot.gif"
+    src="sukuna-robot-animation/assets/sukuna-robot/sukuna-robot.gif"
     alt="Animated Sukuna Robot mascot blinking and talking"
     width="200"
   />
